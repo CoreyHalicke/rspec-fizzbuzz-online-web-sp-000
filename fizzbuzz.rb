@@ -3,5 +3,5 @@
 
 
 def fizzbuzz(number)
-  
+  if number / 3 = fixnums
 end
